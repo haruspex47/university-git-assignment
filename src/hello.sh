@@ -5,3 +5,4 @@ else
   echo "Hello, Feature 1!"
 fi
 echo "$(date): run" >> run.log
+echo "Feature number #3 have activated."
